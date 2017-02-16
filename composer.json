@@ -1,0 +1,7 @@
+{
+    "name": "zaporylie/drupal-composer-sql-sync-policy",
+    "description": "Prevent syncing in wrong direction (i.e. from @dev to @prod).",
+    "type": "drupal-drush",
+    "license": "GPL-2.0+",
+    "require": {}
+}
